@@ -35,8 +35,11 @@ This repository contains the source code, which integrates computer vision techn
 - Real time notification will be sent to phone and watch.
 
 # Credits
-This project utilizes the YOLO object detection model and the dlib library for facial landmark detection.
-A special thanks to [Sulav Kumar Shrestha](https://github.com/majipa007), the original project creator, for laying the groundwork for the Advanced Driver Safety System.
+- This project utilizes the YOLO object detection model and the dlib library for facial landmark detection.
+- A special thanks to [Sulav Kumar Shrestha](https://github.com/majipa007), the original project creator, for laying the groundwork for the Advanced Driver Safety System.
 
 
 <img width="2207" alt="notification" src="https://github.com/RATHOD-SHUBHAM/DriverAssistant/assets/58945964/c97a669e-3a39-4e8a-95c2-e7357737b6b8">
+
+
+![IMG_9641](https://github.com/RATHOD-SHUBHAM/DriverAssistant/assets/58945964/c5e456f7-5bfd-49b6-9f8c-194db6a60fb9)
