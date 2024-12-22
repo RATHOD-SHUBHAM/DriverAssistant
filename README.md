@@ -52,7 +52,7 @@ This repository contains the source code, which integrates computer vision techn
 
 # Credits
 - This project utilizes the YOLO object detection model and the dlib library for facial landmark detection.
-- A special thanks to **Sulav Kumar Shrestha**, the original project creator, for laying the groundwork for the Advanced Driver Safety System.
+- A special thanks to **Sulav Kumar Shrestha**, for laying the groundwork for the Advanced Driver Safety System.
 
 
 <img width="2207" alt="notification" src="https://github.com/RATHOD-SHUBHAM/DriverAssistant/assets/58945964/c97a669e-3a39-4e8a-95c2-e7357737b6b8">
